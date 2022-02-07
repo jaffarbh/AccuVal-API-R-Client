@@ -1,1 +1,1 @@
-curl -H "apikey: replace-with-your-api-key" "https://accuval.co.uk/api/?postcode=nw1+1aa&type=t&rooms=4&area=1100&epc=e&age=1921&uuid=a123456789"
+curl -H "apikey: replace-with-your-api-key" "https://accuval.co.uk/api/?postcode=nw1+1aa&type=f&rooms=3&area=680&new=n&tenure=l&condition=3&epc=c&age=1950&uuid=1234&level=basic"
